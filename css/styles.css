@@ -1,0 +1,14 @@
+header {
+    padding: 60px;
+    font-family: "Open Sans", sans-serif;
+    background-image: url("/Cannabis pictures/bannerblack.jpg");
+    background-size: cover;  
+}
+
+header h2, h1 {
+    color: rgb(241, 120, 90);
+
+}
+.navbar {
+    background-color: #901CAD;
+}
